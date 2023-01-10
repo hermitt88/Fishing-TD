@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/tile_tree_E.png-c40fa4197546c0910eecbe5a737bf5df.stex"
+path="res://.import/tile_treeQuad_E.png-860efadb898c087699930c5e8aeba08a.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://TD_Assets/tile/tile_tree_E.png"
-dest_files=[ "res://.import/tile_tree_E.png-c40fa4197546c0910eecbe5a737bf5df.stex" ]
+source_file="res://TD_Assets/tile/Tree/tile_treeQuad_E.png"
+dest_files=[ "res://.import/tile_treeQuad_E.png-860efadb898c087699930c5e8aeba08a.stex" ]
 
 [params]
 
