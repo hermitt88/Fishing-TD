@@ -1,0 +1,10 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://fishTile_096.png" type="Texture" id=1]
+
+[node name="PathTest" type="PathFollow2D"]
+
+[node name="FishTile096" type="Sprite" parent="."]
+position = Vector2( 0, -10 )
+rotation = -1.5708
+texture = ExtResource( 1 )
